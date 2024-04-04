@@ -5,11 +5,8 @@
 ### 1. Download Source Code
 
 ```bash
-git clone https://github.com/<nama-repo>/<nama-project>.git
+https://github.com/bbaygx/test_kerja_1.git
 ```
-
-**Catatan:** Ganti `<nama-repo>` dengan nama pengguna GitHub Anda dan `<nama-project>` dengan nama project Anda.
-
 ### 2. Konfigurasi Project
 
 1. Rename file `.env.example` menjadi `.env`.
