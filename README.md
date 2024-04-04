@@ -1,5 +1,3 @@
-## Template Markdown
-
 ## **Langkah Penginstallan**
 
 ### 1. Download Source Code
